@@ -8,4 +8,4 @@ GPUB is created because there is a lack of public building instance segmentation
 Link to the dataset: https://drive.google.com/drive/folders/1kilkNv5gCmUfAxrIRk39zahNAdxzIM_u?usp=sharing
 
 ## Section+Plane Dataset
-Link to the dataset: 
+Link to the dataset: https://zenodo.org/record/7862080
