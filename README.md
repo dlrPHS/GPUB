@@ -14,7 +14,9 @@ Link to the dataset: https://zenodo.org/record/7862080
 ![alt text](https://github.com/dlrPHS/GPUB/blob/main/maploc.jpg?raw=true)
 
 #### Distribution in Cologne, Germany
+Red color indicates training area, green color indicates test area.
 ![alt text](https://github.com/dlrPHS/GPUB/blob/main/köln_maploc.jpg?raw=true)
 
 #### Distribution in Berlin, Germany
+Red color indicates training area.
 ![alt text](https://github.com/dlrPHS/GPUB/blob/main/berlin_maploc.jpg?raw=true)
