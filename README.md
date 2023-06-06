@@ -12,11 +12,12 @@ Link to the dataset: https://zenodo.org/record/7862080
 
 With the following code, you can decode the run-length-encoded segmentations to masks:
 
-```from pycocotools.mask import frPyObjects, decode
+```
+from pycocotools.mask import frPyObjects, decode
 
 rle = frPyObjects(rle, rle.get(‘size’)[0], rle.get(‘size’)[1])
-mask = decode(rle)```python
-
+mask = decode(rle)
+```
 
 ### Locations of the real part of the dataset
 ![alt text](https://github.com/dlrPHS/GPUB/blob/main/maploc.jpg?raw=true)
