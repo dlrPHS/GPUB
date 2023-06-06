@@ -10,6 +10,11 @@ Link to the dataset: https://drive.google.com/drive/folders/1kilkNv5gCmUfAxrIRk3
 ## Section+Plane Dataset (Public + Manual + Synthetic)
 Link to the dataset: https://zenodo.org/record/7862080
 
+### Locations of the real part of the dataset
 ![alt text](https://github.com/dlrPHS/GPUB/blob/main/maploc.jpg?raw=true)
+
+#### Distribution in Cologne, Germany
 ![alt text](https://github.com/dlrPHS/GPUB/blob/main/köln_maploc.jpg?raw=true)
+
+#### Distribution in Berlin, Germany
 ![alt text](https://github.com/dlrPHS/GPUB/blob/main/berlin_maploc.jpg?raw=true)
