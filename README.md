@@ -11,3 +11,5 @@ Link to the dataset: https://drive.google.com/drive/folders/1kilkNv5gCmUfAxrIRk3
 Link to the dataset: https://zenodo.org/record/7862080
 
 ![alt text](https://github.com/dlrPHS/GPUB/blob/main/maploc.jpg?raw=true)
+![alt text](https://github.com/dlrPHS/GPUB/blob/main/köln_maploc.jpg?raw=true)
+![alt text](https://github.com/dlrPHS/GPUB/blob/main/berlin_maploc.jpg?raw=true)
