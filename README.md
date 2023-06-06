@@ -9,3 +9,5 @@ Link to the dataset: https://drive.google.com/drive/folders/1kilkNv5gCmUfAxrIRk3
 
 ## Section+Plane Dataset (Public + Manual + Synthetic)
 Link to the dataset: https://zenodo.org/record/7862080
+
+![alt text](https://github.com/dlrPHS/GPUB/blob/main/maploc.jpg?raw=true)
