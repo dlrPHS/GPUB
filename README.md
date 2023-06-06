@@ -15,7 +15,7 @@ With the following code, you can decode the run-length-encoded segmentations to 
 ```from pycocotools.mask import frPyObjects, decode
 
 rle = frPyObjects(rle, rle.get(‘size’)[0], rle.get(‘size’)[1])
-mask = decode(rle)´´´
+mask = decode(rle)```python
 
 
 ### Locations of the real part of the dataset
