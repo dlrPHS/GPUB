@@ -14,6 +14,14 @@ With the following code, you can decode the run-length-encoded segmentations to 
 
 ```python
 from pycocotools.mask import frPyObjects, decode
+import json
+
+with open("path_to_annotation.json",'r') as f:
+  annotations = json.load(f)
+
+annos = annotations["annotations"]
+
+rle = annos[201]["segmentation"]
 
 rle = frPyObjects(rle, rle.get(‘size’)[0], rle.get(‘size’)[1])
 mask = decode(rle)
