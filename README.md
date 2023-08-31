@@ -27,6 +27,8 @@ rle = frPyObjects(rle, rle.get(‘size’)[0], rle.get(‘size’)[1])
 mask = decode(rle)
 ```
 
+With the script 'visRoof3D.py', the patches can be visualized sequentially.
+
 ### Locations of the real part of the dataset
 ![alt text](https://github.com/dlrPHS/GPUB/blob/main/maploc.jpg?raw=true)
 
