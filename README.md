@@ -7,8 +7,11 @@ GPUB is created because there is a lack of public building instance segmentation
 ## GPUB: Section Dataset
 Link to the dataset: https://zenodo.org/record/8304900
 
+## Roof3D: Whole tiles and 3D Ground Truth for Evaluation
+Link to the dataset (v3): https://zenodo.org/record/8300629
+
 ## Roof3D: Section+Plane Dataset (Public + Manual + Synthetic)
-Link to the dataset: https://zenodo.org/record/8300629
+Link to the dataset (v2): https://zenodo.org/record/8300629
 
 With the following code, you can decode the run-length-encoded segmentations to masks:
 
